@@ -1,0 +1,32 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="skrypt.js" defer></script>
+</head>
+
+<body>
+
+
+
+<p> <i><b><u>Podoba się wam ten genialny mem? :)</u></b></i><p></p>
+<img src="meme.jpg" width="400" align="centre" />
+<p> Kliknij przycisk!</p>
+<p> 
+   
+   
+   <button onclick="hello()">  <img src="but.webp"  width="100" align="centre"/>  </button></p>
+   <p>"Powiedz hello"</p>
+   <input id="input" />
+
+   
+
+   <button onclick="wyswietl_w_konsoli()">Wyślij</button> 
+   
+
+
+    
+</body>
+</html> 
